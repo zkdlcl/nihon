@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Day1-가족-직업-30개.md",
+                "file": "Vocabulary/Day3-4-단어장.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day1-가족-직업-30개"
+              "title": "Day3-4-단어장"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b20694bcb1db0334",
@@ -185,10 +185,15 @@
   },
   "active": "634b7f770fea90e8",
   "lastOpenFiles": [
-    "Vocabulary/어휘-템플릿.md",
     "Vocabulary/Day1-가족-직업-30개.md",
+    "Vocabulary/Day3-4-단어장.md",
+    "Vocabulary/어휘-템플릿.md",
+    "Daily-Logs/로그-템플릿.md",
+    "Daily-Logs/2026-02-14-Day1.md",
+    "Daily-Logs/2026-02-18-Day3.md",
+    "Daily-Logs/2026-02-18-Day4.md",
+    "Daily-Logs/2026-02-15-Day2.md",
     "Week1-2-계획.md",
-    "학습-시작-가이드.md",
-    "Daily-Logs/2026-02-14-Day1.md"
+    "학습-시작-가이드.md"
   ]
 }
