@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Day3-4-단어장.md",
-                "mode": "preview",
+                "file": "Week1-2-계획.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day3-4-단어장"
+              "title": "Week1-2-계획"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -174,26 +174,41 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
     }
   },
   "active": "634b7f770fea90e8",
   "lastOpenFiles": [
+    "README.md",
+    "claude.md",
+    "agents.md",
+    "학습-시작-가이드.md",
+    "Vocabulary/Day12-취미감정-30개.md",
+    "Vocabulary/Day6-い형용사-30개.md",
     "Vocabulary/Day1-가족-직업-30개.md",
-    "Vocabulary/Day3-4-단어장.md",
+    "Vocabulary/한자-마스터.md",
     "Vocabulary/어휘-템플릿.md",
+    "Resources/복습자료-오답노트.md",
+    "Resources/복습자료-연습문제.md",
+    "Resources/복습자료-문법카드.md",
+    "Grammar/N5-기본문법.md",
+    "Grammar/N4-핵심문법.md",
+    "Daily-Logs/2026-05-03-Day15.md",
+    "Resources/User-Brain-Profile.md",
+    "Week1-2-계획.md",
     "Daily-Logs/로그-템플릿.md",
+    "Resources/학습-리소스.md",
+    "Resources/Harness-Engineering-Ideas.md",
+    "Vocabulary/Day3-4-단어장.md",
     "Daily-Logs/2026-02-14-Day1.md",
     "Daily-Logs/2026-02-18-Day3.md",
     "Daily-Logs/2026-02-18-Day4.md",
-    "Daily-Logs/2026-02-15-Day2.md",
-    "Week1-2-계획.md",
-    "학습-시작-가이드.md"
+    "Daily-Logs/2026-02-15-Day2.md"
   ]
 }
